@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+div#cuadrouno {
+    margin: auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 800px;
+    background-color: white;
+   
+}
+
+div#cuadrodos {
+    float: right;
+    width: 300px;
+    height: 800px;
+    background-color: gray;
+    
+}
+
+img#imagen {
+    width: 100px; height: 100px;
+    float: right;
+}
+
+div#cuadrotres {
+    width: 640px;
+    height: 60px;
+    background-color: blue;
+}
+
+div#body {
+    margin-top: 20px;
+     width: 640px;
+    height: 720px;
+    background-color: lightblue;
+}
+
+h1#nombre {
+   text-align: center;
+   margin: 10px;
+}
+
+img#blanco {
+    width: 150px; height: 150px;
+    display:block;
+margin: 60px;
+}
+
+h1#datos {
+    margin: 30px;
+}
+
+h1#habilidades {
+    margin: 30px;
+}
+
+h1#estudios {
+    text-align:  center;
+    margin: 20px;
+}
+
+p#Maracay {
+    text-indent: 6em;
+}
+
+p#Aprobado {
+    text-indent: 6em;
+}
+
+p#San {
+    text-indent: 6em;
+}
+
+h1#experiencia {
+    text-align: center;
+    margin: 20px;
+}
+
+img#laboral {
+    width: 100px; height: 100px;
+    float: right;
+}
+
+p#Venezuela {
+    text-indent: 8em;
+}
+h1#referencias {
+    text-align: center;
+    margin: 20px;
+   
+}
+
+p#dat {
+    text-indent: 1em;
+    margin: 5px;
+}
+
+body {
+    line-height: normal ;
+}
+
+p#datper {
+    text-indent: 1em;
+    margin: 5px;
+}
+
+img#mov {
+    width: 180px; height: 180px;
+    display:block;
+margin: auto;
+}
